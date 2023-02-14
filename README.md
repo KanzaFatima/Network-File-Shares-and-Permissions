@@ -109,8 +109,9 @@ Inside "Security Groups" create new group called “ACCOUNTANTS”.
 </p>
 <p>
 
-Go to file explorer On the “accounting” folder you created earlier, set the following permissions: “Read/Write”Minimize 
-Folder: “accounting” Right click>properties>sharing>share>ACCOUNTANTS>CLICK add>read and write>share>done>close.
+Go to file explorer On the “accounting” folder you created earlier, set the following permissions: “Read/Write”
+  
+“accounting” Right click>properties>sharing>share>ACCOUNTANTS>CLICK add>read and write>share>done>close.
 </p>
 <br />
 
@@ -118,7 +119,7 @@ Folder: “accounting” Right click>properties>sharing>share>ACCOUNTANTS>CLICK 
 <img src="https://i.imgur.com/NWD4coR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On client-1, try to access the Accounting folder. It will fail, then logout from client-1 
+On client-1, try to access the Accounting folder. It will fail, then logout from client-1. 
 </p>
 <br />
 
@@ -128,7 +129,7 @@ On client-1, try to access the Accounting folder. It will fail, then logout from
 <p>
 On DC-1 make the user the member of the Accountant Security group.
   
-Login back as the that user in Client-1 and try to access the Accounting share file in \DC-1
+Login back as that user in Client-1 and try to access the Accounting share file in \DC-1.
 </p>
 <br />
 
