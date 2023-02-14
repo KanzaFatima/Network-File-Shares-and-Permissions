@@ -90,7 +90,7 @@ Try to access the folder that you created, which folder that you can access? whi
 <img src="https://i.imgur.com/bGl7MVc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to the DC-1, in Active Directory>right click mydomain.com>new>OU>_SECURITY_GROUPS and refresh mydomian.com,
+Go to the DC-1, in Active Directory>right click mydomain.com>new>OU>_SECURITY_GROUPS and refresh mydomian.com.
 
 </p>
 <br />
